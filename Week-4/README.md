@@ -1,3 +1,3 @@
 ## Kuis 1
 
-Kuis 1 at LMS
+Kuis 1
